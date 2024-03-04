@@ -1,0 +1,22 @@
+{
+  "name": "crypto-facts-s",
+  "version": "1.0.0",
+  "description": "Crypto facts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacksonsew/crypto-facts.git"
+  },
+  "dependencies": {
+    "crypto-checker-aa": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacksonsew/crypto-facts/issues"
+  },
+  "homepage": "https://github.com/jacksonsew/crypto-facts#readme"
+}
