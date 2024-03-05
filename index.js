@@ -8,7 +8,6 @@ const cryptoFacts = [
     "Cryptocurrencies are often classified as either 'proof-of-work' or 'proof-of-stake' based on their consensus mechanisms.",
     "The first recorded commercial transaction using Bitcoin was the purchase of two pizzas for 10,000 BTC in 2010.",
     "Altcoins refer to alternative cryptocurrencies other than Bitcoin, such as Ethereum, Litecoin, and Ripple.",
-    "The cryptocurrency market operates 24/7, unlike traditional financial markets that have specific trading hours.",
   ];
   
   function getRandomCryptoFact() {
